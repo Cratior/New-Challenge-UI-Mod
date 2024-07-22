@@ -1,6 +1,8 @@
 # New-Challenge-UI-Mod
 Replaces the current SpaceFlight Simulator challenge menu with a custom one (featured in heroix's video)
 
+This mod was origonaly only made for a single heroix video and used preset achivements but i later updated it to use sfs achivements **So there will be errors/bugs/problems**
+
 `(Thanks to Cucumber Space for making the origonal base but i kinda broke that then remade it 😁)`
 
 ## What does it do
