@@ -1,0 +1,4 @@
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Release\FakeChallengesMod.csproj.AssemblyReference.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Release\FakeChallengesMod.csproj.CoreCompileInputs.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Release\FakeChallengesMod.csproj.AssemblyReference.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Release\FakeChallengesMod.csproj.CoreCompileInputs.cache

@@ -1,0 +1,159 @@
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/FakeChallengesMod.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/FakeChallengesMod.pdb
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/0Harmony.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Assembly-CSharp.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.CoreModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TextRenderingModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UI.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Mono.Cecil.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/MonoMod.Utils.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/MonoMod.RuntimeDetour.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Assembly-CSharp-firstpass.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UIModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Firebase.App.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Newtonsoft.Json.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UniTask.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/ICSharpCode.SharpZipLib.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AndroidJNIModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Unity.TextMeshPro.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AnimationModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.Physics2DModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AudioModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.InputLegacyModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Firebase.Analytics.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Firebase.RemoteConfig.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Firebase.TaskExtension.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ImageConversionModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.IMGUIModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Unity.Analytics.StandardEvents.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AssetBundleModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/netstandard.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.DSPGraphModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityCurlModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ContentLoadModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.PropertiesModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TLSModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AccessibilityModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityConnectModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.AIModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityAnalyticsCommonModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.PhysicsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ClothModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ClusterInputModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.CrashReportingModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TilemapModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TerrainModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.VFXModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.VideoModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.VRModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.GridModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.SubsystemsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.LocalizationModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.NVIDIAModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.DirectorModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.VirtualTexturingModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.GameCenterModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.StreamingModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TextCoreFontEngineModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.TextCoreTextEngineModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.UIElementsModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.VehiclesModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.WindModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.XRModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.ARModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/UnityEngine.InputModule.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/Firebase.Platform.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Data.DataSetExtensions.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Drawing.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.IO.Compression.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.IO.Compression.FileSystem.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.ComponentModel.Composition.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Net.Http.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Numerics.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Runtime.Serialization.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Transactions.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Xml.Linq.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.ServiceModel.Internals.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Configuration.dll
+/ssd2/Projects/C#/FakeChallengesMod/bin/Debug/System.Security.dll
+/ssd2/Projects/C#/FakeChallengesMod/obj/Debug/FakeChallengesMod.csproj.AssemblyReference.cache
+/ssd2/Projects/C#/FakeChallengesMod/obj/Debug/FakeChallengesMod.csproj.CoreCompileInputs.cache
+/ssd2/Projects/C#/FakeChallengesMod/obj/Debug/FakeChallengesMod.csproj.CopyComplete
+/ssd2/Projects/C#/FakeChallengesMod/obj/Debug/FakeChallengesMod.dll
+/ssd2/Projects/C#/FakeChallengesMod/obj/Debug/FakeChallengesMod.pdb
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\FakeChallengesMod.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\FakeChallengesMod.pdb
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Debug\FakeChallengesMod.csproj.AssemblyReference.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Debug\FakeChallengesMod.csproj.CoreCompileInputs.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Debug\FakeChal.48AFB32C.Up2Date
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Debug\FakeChallengesMod.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\obj\Debug\FakeChallengesMod.pdb
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\netstandard.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\Unity.Services.Core.Networking.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\Unity.Services.Core.Internal.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\Unity.Services.Core.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod\bin\Debug\UITools.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\FakeChallengesMod.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\FakeChallengesMod.pdb
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UITools.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\Unity.Services.Core.Networking.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\netstandard.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\Unity.Services.Core.Internal.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\Unity.Services.Core.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Debug\FakeChallengesMod.csproj.AssemblyReference.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Debug\FakeChallengesMod.csproj.CoreCompileInputs.cache
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Debug\FakeChal.48AFB32C.Up2Date
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Debug\FakeChallengesMod.dll
+C:\Users\callu\Documents\mod source code\FakeChallengesMod 2\obj\Debug\FakeChallengesMod.pdb
